@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce",
+  "version": "0.1.0",
+  "keywords": [
+    "ecommerce",
+    "shop"
+  ],
+  "author": "Nathan Lima (github.com/nathvnfwck)",
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4",
+    "vitest": "^0.31.1"
+  }
+}
